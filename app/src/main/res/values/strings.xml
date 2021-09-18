@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Motivation RecyclerView</string>
+    <string name="motivate1"> I am strong.</string>
+    <string name="motivate2"> I believe in myself.</string>
+    <string name="motivate3"> I will make it, no matter what.</string>
+    <string name="motivate4"> I have so much to be grateful for.</string>
+    <string name="motivate5"> now opportunities awaits me at every turn.</string>
+    <string name="motivate6"> Good things are always coming into my life.</string>
+    <string name="motivate7"> The day is good for me.</string>
+    <string name="motivate8"> I will make more money.</string>
+    <string name="motivate9"> I am strong.</string>
+    <string name="motivate10"> I believe in myself.</string>
+    <string name="motivate11"> I will make it, no matter what.</string>
+    <string name="motivate12"> I have so much to be grateful for.</string>
+    <string name="motivate13"> now opportunities awaits me at every turn.</string>
+    <string name="motivate14"> Good things are always coming into my life.</string>
+    <string name="motivate15"> The day is good for me.</string>
+    <string name="motivate16"> I will make more money.</string>
+
+</resources>
